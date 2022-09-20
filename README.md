@@ -2,6 +2,8 @@
 
 ![me](https://github.com/rodrigomatosc/Articles/blob/main/app.gif)
 
+video em uma resolução melhor: ![me](https://github.com/rodrigomatosc/Articles/blob/main/Screen_Recording_20220920-194154_Articles.mp4)
+
 ## Features
 
 - Consome a api https://newsapi.org/ e mostra uma lista de artigos com algumas informações.
